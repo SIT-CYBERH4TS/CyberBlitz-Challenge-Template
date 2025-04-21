@@ -1,5 +1,4 @@
 # -------- Compulsory Sections --------
-
 name: Web Me
 category: Web
 description: How hard can webbing get
@@ -10,7 +9,6 @@ flags:
     - CyberBlitz2025{flag}
 
 # -------- Optional Sections --------
-
 # connection_info is used to provide a link, hostname, or instructions on how to connect to a challenge
 connection_info: http://127.0.0.1:8000
 
