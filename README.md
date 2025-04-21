@@ -17,7 +17,7 @@ challenge_name/
     │       ├─ writeup.md
     │       ├─ solution_files
     |
-    ├─ challenge.yaml
+    ├─ challenge.yml
     ├─ README.md
 ```
 
