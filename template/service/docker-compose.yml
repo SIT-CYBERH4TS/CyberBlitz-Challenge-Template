@@ -1,0 +1,6 @@
+version: "3"
+services:
+  testservice:
+    build: ./TestService
+    ports:
+      - "8000:8000"

@@ -1,0 +1,25 @@
+# -------- Compulsory Sections --------
+
+name: '[Challenge Name]'
+category: '[Category]'
+description: '[Challenge Description]'
+value: 300
+type: standard
+state: visible
+flags:
+    - CyberBlitz2025{example}
+
+# -------- Optional Sections --------
+# connection_info is used to provide a link, hostname, or instructions on how to connect to a challenge
+connection_info: '[Example: nc 127.0.0.1 8000]'
+
+# Provide paths to files from the same directory that this file is in
+files:
+  - /dist/<filename 1>
+  - /dist/<filename 2>
+
+# Hints are used to give players a way to buy or have suggestions.
+# Can be removed if unused
+hints:
+  - content: '[Hint Description]'
+    cost: 50

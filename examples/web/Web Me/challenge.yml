@@ -1,0 +1,25 @@
+# -------- Compulsory Sections --------
+
+name: Web Me
+category: Web
+description: How hard can webbing get
+value: 300
+type: standard
+state: visible
+flags:
+    - CyberBlitz2025{flag}
+
+# -------- Optional Sections --------
+
+# connection_info is used to provide a link, hostname, or instructions on how to connect to a challenge
+connection_info: http://127.0.0.1:8000
+
+# Provide paths to files from the same directory that this file is in
+files:
+  - /dist/challenge.txt
+
+# Hints are used to give players a way to buy or have suggestions.
+# Can be removed if unused
+hints:
+  - content: It's a web service
+    cost: 50
