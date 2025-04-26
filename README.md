@@ -7,6 +7,11 @@ The challenge & file structure should look like this:
 challenge_name/
     |
     |
+    |
+    ├─ dist/
+    |       ├─ image.png
+    |
+    |
     ├─ service/
     |       ├─ docker-compose.yml
     │       ├─ container-name/
