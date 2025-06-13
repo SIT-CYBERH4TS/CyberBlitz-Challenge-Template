@@ -1,1 +1,1 @@
-example of where ur challenge is:
+If your challenge is meant to be distributed to challengers (eg. an embedded image/zip folder), place them in /dist folder.
